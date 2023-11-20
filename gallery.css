@@ -1,0 +1,28 @@
+img{
+    height: 200px;
+    width: 300px;
+}
+footer {
+    margin-top: 265px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+header {
+    background-image: url(brooke-lark-08bOYnH_r_E-unsplash.jpg);
+    background-size: cover;
+    border: 10px solid palevioletred;
+}
+h1 {
+font-size: 36px;
+text-align: center;
+}
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+body{
+    background-image: url(gg.jpg);
+    background-size: cover;
+}

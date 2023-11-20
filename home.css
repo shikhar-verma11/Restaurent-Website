@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    background-image: url(annie-spratt-6a3nqQ1YwBw-unsplash.jpg);
+    background-size: cover;
+}
+header {
+    background-image: url(brooke-lark-08bOYnH_r_E-unsplash.jpg);
+    background-size: cover;
+}
+nav.navi {
+    background-color: rgb(64,64,64);
+    padding: 10px;
+}
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #fff;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    color: #ff2828dc;
+    font-size: 50px;
+}
+.home,.about,.menu,.gallery,.tips,.contact{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 140px;
+    font-size: 20px;
+}
+fieldset{
+    border: black;
+    border: 20px;
+}
+p{
+    color: aqua;
+    font-size: 22px;
+    margin-left: 10px;
+}
+.l1{
+    color: #f2f2f2;
+    font-size: 35px;
+    margin-bottom: 230px;
+    margin-left: 200px;
+}
+.l2{
+    color: burlywood;
+    margin-top: 70px;
+    font-size:  28px;;
+}
+fieldset.f3{
+    margin-left: 800px;
+    margin-top: -220px;
+    border-style: solid;
+    border-width: 2px;
+    border-top: 0ch;
+    border-bottom: 0ch;
+    border-right: 0ch;
+    border-color:coral;
+}
+label.l3{
+    color: #f2f2f2;
+    font-size: 35px;
+}
+div.aye{
+        color: #f2f2f2;
+        font-size: 35px;
+}
+label.Special{
+    color: aqua;
+    font-size: 22px;
+    margin-left: 10px;
+}
+fieldset.f4{
+    margin-left: 800px;
+    margin-top: 80px;
+    border-style: solid;
+    border-width: 2px;
+    border-top: 0ch;
+    border-bottom: 0ch;
+    border-right: 0ch;
+    border-color:coral;
+}
+p.pp{
+    border-style: double;
+    border-width: 4px;
+    border-color: gold;
+    
+}
+footer {
+    margin-top: 265px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
